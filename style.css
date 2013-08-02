@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
 Theme Name: Marbles FT 
+=======
+Theme Name: Marbles 
+>>>>>>> 7a0fed8556b0c1960d1f42573d6065f85370cbd9
 Version: 1.1
 Author: Reynolds Digital
 Author URI: http://www.reynoldsdigital.com/
@@ -134,6 +138,7 @@ section{}
 .pagination .current{padding:3px 7px;color:#fff;background:#72B100;border:1px solid #6DAA00;}
 
 
+<<<<<<< HEAD
 /************** TOP BAR ****************/
 /*                                                  DELETE
 #topbar{padding:0;}
@@ -141,6 +146,16 @@ section{}
 #topbar p{text-align:right;padding:7px 20px 0 0;}
 
 */
+=======
+/************** PAGES - 404  ****************/
+.fof-error{font-size:150px;margin-top:50px;color:#ccc;}
+.fof-links nav{width:100%;margin:0!important;}
+.fof-links li{float:none!important;margin:0!important;}
+.fof-links li a{display:block;padding:7px 0!important;border-bottom:1px solid #eee;border-right:none!important;}
+.fof-search #searchform, #content #searchform {width:100%;border-right:none;}
+.fof-search #searchform input#s, #content #searchform input#s{background:#eee;border:1px solid #ccc;width:280px;padding:2px 10px;}
+
+>>>>>>> 7a0fed8556b0c1960d1f42573d6065f85370cbd9
 
 
 /************** PROMO BOX ****************/
@@ -242,6 +257,9 @@ footer .span7 .widget-box {float:left;box-sizing:border-box;width:31%;padding:0 
    footer .srp-post-title{font-size:14px;margin:0;}
 
 /************** PLUGINS ****************/
+
+
+
 
 /************** CONTACT FORM ****************/
 .iphorm-edit-form{display:none;}
